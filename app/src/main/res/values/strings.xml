@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">primer proyecto</string>
+    <string name="text1">Texto para ingresar al sistema</string>
+    <string name="butt1">Ingresar al sistema</string>
+    <string name="buttGreen">Verde</string>
+    <string name="buttRed">Rojo</string>
+</resources>
